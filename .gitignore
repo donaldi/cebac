@@ -1,3 +1,6 @@
+# repo-specific ignores
+constitution_suggestedrevisions_20230511.docx
+constitution.pdf
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
